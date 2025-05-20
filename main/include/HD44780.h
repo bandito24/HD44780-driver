@@ -8,5 +8,5 @@
 #include <driver/i2c.h>
 #include "esp_err.h"
 
-void i2c_init();
+void i2c_init(uint8_t rows, uint8_t cols);
 void test_write();
