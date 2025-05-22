@@ -50,6 +50,8 @@ lcd_write_string("Hello, world!");
 clear_display();
 
 
+```c
+
 📚 What You’ll Learn
 
     How to manually write to an HD44780 over I2C using 4-bit mode
@@ -87,3 +89,4 @@ Feel free to open issues or submit pull requests — especially if you're adding
 ---
 
 Let me know if you were referring to **HD7780** instead of HD44780 — if that’s actually a different chip, I’ll update the references accordingly.
+
